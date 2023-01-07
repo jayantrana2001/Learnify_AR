@@ -6,16 +6,14 @@
 </h1>
 
 A Learning Platform for kids using Augmented Reality to have a better perspective on topics and helping them to visualise in a 3D format. <br />
-<br> Technologies Used : HTML , CSS , Bootstrap , Javascript , Node.JS , Express , MongoDB </br>
+<br> Technologies Used : A-Frame , AR.JS , HTML , CSS , Bootstrap , Javascript
+ </br>
 
 ## Features
 3D models of Alphabet denoting Objects, Geometrical Shapes, Chemistry Molecules, Biological Models etc.
 
 ## Heroku
 https://ar-learnify.herokuapp.com
-
-## Demo
-
 
 
 ## Install dependencies
